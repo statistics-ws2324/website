@@ -4,8 +4,9 @@ title: "Requirements"
 
 For this course you will need the following setup if you want to work on your local machine:
 
-- **Python**: Anaconda, Anaconda Environment `mr` and Visual Studio Code
-- **Environment**: HuggingFace API key; OpenAI API and an environment file with your APIs
+- **Python**: Anaconda, Anaconda Environment `lab` and Visual Studio Code
+- **SQL**: MySQL, MySQL Workbench and a database called db_data
+
 
 :::{.callout-important}
 Visit the "[Programming Toolkit-webpage](https://kirenz.github.io/lab-toolkit/)" to learn how to meet all requirements.
