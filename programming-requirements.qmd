@@ -2,9 +2,9 @@
 title: "Requirements"
 ---
 
-For this course you will need the following setup:
+For this course you will need the following setup if you want to work on your local machine:
 
-- **Python**: Anaconda, Anaconda Environment `gradio` and Visual Studio Code
+- **Python**: Anaconda, Anaconda Environment `mr` and Visual Studio Code
 - **Environment**: HuggingFace API key; OpenAI API and an environment file with your APIs
 
 :::{.callout-important}
