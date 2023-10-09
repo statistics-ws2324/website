@@ -6,11 +6,8 @@ execute:
 
 website:
   page-navigation: true
-  title: "Title"
-  description: "Homepage for xyz at HdM Stuttgart, WS 23/24."
-  site-url: "https://myplaceholder.github.io/website/"
-  repo-url: https://github.com/myplaceholder/website
-  repo-actions: [edit, issue]
+  title: "Statistics"
+  description: "Homepage for Statistics at HdM Stuttgart, WS 23/24."
   open-graph: true
   image: "/images/logo.png"
   favicon: "/images/logo.png"
@@ -66,12 +63,6 @@ website:
             text: Requirements
           - href: programming-troubleshooting.qmd
             text: Troubleshooting
-      - section: "Project"
-        contents:
-          - href: project-description.qmd
-            text: Description
-          - href: project-tips-resources.qmd
-            text: Tips + resources
 
 
 format:
