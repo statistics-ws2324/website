@@ -35,48 +35,6 @@
     "text": "Data"
   },
   {
-    "objectID": "course-support.html",
-    "href": "course-support.html",
-    "title": "Course support",
-    "section": "",
-    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
-  },
-  {
-    "objectID": "course-support.html#lectures",
-    "href": "course-support.html#lectures",
-    "title": "Course support",
-    "section": "",
-    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
-  },
-  {
-    "objectID": "course-support.html#discussion-forum",
-    "href": "course-support.html#discussion-forum",
-    "title": "Course support",
-    "section": "Discussion forum",
-    "text": "Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
-  },
-  {
-    "objectID": "course-support.html#email",
-    "href": "course-support.html#email",
-    "title": "Course support",
-    "section": "Email",
-    "text": "Email\nPlease refrain from emailing any course content questions (those should go to Moodle), and only use email for questions about personal matters that may not be appropriate for the public course forum. For such matters, you may email me at kirenz@hdm-stuttgart.de.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include the name of our course in the subject line."
-  },
-  {
-    "objectID": "course-support.html#academic-support",
-    "href": "course-support.html#academic-support",
-    "title": "Course support",
-    "section": "Academic support",
-    "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
-  },
-  {
-    "objectID": "programming-requirements.html",
-    "href": "programming-requirements.html",
-    "title": "Requirements",
-    "section": "",
-    "text": "For this course you will need the following setup:\n\nPython: Anaconda, Anaconda Environment gradio and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API and an environment file with your APIs\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
-  },
-  {
     "objectID": "course-syllabus.html",
     "href": "course-syllabus.html",
     "title": "Syllabus",
@@ -126,18 +84,53 @@
     "text": "Grading\nThe final grade will be determined based on the following thresholds:\n\n\n\nGrade\nFinal Course Grade\n\n\n\n\n1.0\n96 - 100\n\n\n1.3\n91 - 95\n\n\n1.7\n85 - 90\n\n\n2.0\n80 - 84\n\n\n2.3\n75 - 79\n\n\n2.7\n70 - 74\n\n\n3.0\n65 - 69\n\n\n3.3\n60 - 64\n\n\n3.7\n55 - 59\n\n\n4.0\n50 - 54\n\n\n4.7\n15 - 49\n\n\n5.0\n0 - 14"
   },
   {
-    "objectID": "programming-troubleshooting.html",
-    "href": "programming-troubleshooting.html",
-    "title": "Programming troubleshooting",
+    "objectID": "programming-requirements.html",
+    "href": "programming-requirements.html",
+    "title": "Requirements",
     "section": "",
-    "text": "tbd"
+    "text": "For this course you will need the following setup if you want to work on your local machine:\n\nPython: Anaconda, Anaconda Environment mr and Visual Studio Code\nEnvironment: HuggingFace API key; OpenAI API and an environment file with your APIs\n\n\n\n\n\n\n\nImportant\n\n\n\nVisit the “Programming Toolkit-webpage” to learn how to meet all requirements."
+  },
+  {
+    "objectID": "course-support.html",
+    "href": "course-support.html",
+    "title": "Course support",
+    "section": "",
+    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
+  },
+  {
+    "objectID": "course-support.html#lectures",
+    "href": "course-support.html#lectures",
+    "title": "Course support",
+    "section": "",
+    "text": "If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone."
+  },
+  {
+    "objectID": "course-support.html#discussion-forum",
+    "href": "course-support.html#discussion-forum",
+    "title": "Course support",
+    "section": "Discussion forum",
+    "text": "Discussion forum\nPrefer to write out your question in detail rather than asking in person? The online discussion forum is the best venue for these! We will use the Moodle forum as the online discussion forum. There is a chance another student has already asked a similar question, so please check the other posts before adding a new question. If you know the answer to a question that is posted, I encourage you to respond!"
+  },
+  {
+    "objectID": "course-support.html#email",
+    "href": "course-support.html#email",
+    "title": "Course support",
+    "section": "Email",
+    "text": "Email\nPlease refrain from emailing any course content questions (those should go to Moodle), and only use email for questions about personal matters that may not be appropriate for the public course forum. For such matters, you may email me at kirenz@hdm-stuttgart.de.\nIf there is a question that’s not appropriate for the public forum, you are welcome to email me directly. If you email me, please include the name of our course in the subject line."
+  },
+  {
+    "objectID": "course-support.html#academic-support",
+    "href": "course-support.html#academic-support",
+    "title": "Course support",
+    "section": "Academic support",
+    "text": "Academic support\nThere are times you may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Center for Learning and Development: it offers free services to all students."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Statistics",
     "section": "",
-    "text": "Welcome to our course Statistics (337094b)! 👋\nThis page contains a weekly overview about the topics, slides and materials for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis overview will be updated as the semester progresses.\n\n\n\n\n\nLecture\nWeek\nNr.\nDate\nTopic\nLiterature\nSlides\nLinks\nCode\n\n\n\n\nIMS\n1\n1\n17.10.\nFirst Data Analysis\n📚\n\n📊\n💻\n\n\nIMS\n1\n2\n17.10.\nData basics\n📚\n\n☑️"
+    "text": "Welcome to our course Statistics (337094b)! 👋\nThis page contains a weekly overview about the topics, slides and materials for the semester.\n\n\n\n\n\n\nNote\n\n\n\nThis overview will be updated as the semester progresses.\n\n\n\n\n\nLecture\nWeek\nNr.\nDate\nTopic\nLiterature\nSlides\nLinks\nCode\n\n\n\n\nIMS\n1\n1\n10.10.\nFirst Data Analysis\n📚\n\n📊\n💻\n\n\nIMS\n1\n2\n10.10.\nData basics\n📚\n\n☑️"
   },
   {
     "objectID": "course-faq.html",
