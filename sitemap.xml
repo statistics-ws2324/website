@@ -1,35 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/statistics-ws2324/website/course-overview.html</loc>
-    <lastmod>2023-10-09T09:34:22.236Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/statistics-ws2324/website/course-links.html</loc>
-    <lastmod>2023-10-09T09:34:21.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/statistics-ws2324/website/code/notebook.html</loc>
-    <lastmod>2023-10-09T09:34:20.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/statistics-ws2324/website/course-syllabus.html</loc>
-    <lastmod>2023-10-09T09:34:20.036Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/statistics-ws2324/website/programming-requirements.html</loc>
-    <lastmod>2023-10-09T09:34:17.884Z</lastmod>
+    <loc>https://github.com/statistics-ws2324/website/index.html</loc>
+    <lastmod>2023-10-09T12:03:18.830Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/statistics-ws2324/website/course-support.html</loc>
-    <lastmod>2023-10-09T09:34:20.416Z</lastmod>
+    <lastmod>2023-10-09T12:03:18.078Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/statistics-ws2324/website/index.html</loc>
-    <lastmod>2023-10-09T09:34:21.168Z</lastmod>
+    <loc>https://github.com/statistics-ws2324/website/programming-requirements.html</loc>
+    <lastmod>2023-10-09T12:03:15.534Z</lastmod>
   </url>
   <url>
-    <loc>https://github.com/statistics-ws2324/website/course-faq.html</loc>
-    <lastmod>2023-10-09T09:34:21.892Z</lastmod>
+    <loc>https://github.com/statistics-ws2324/website/course-syllabus.html</loc>
+    <lastmod>2023-10-09T12:03:17.702Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/statistics-ws2324/website/code/notebook.html</loc>
+    <lastmod>2023-10-09T12:03:18.446Z</lastmod>
   </url>
 </urlset>
