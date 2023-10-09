@@ -1,9 +1,0 @@
----
-title: "Course overview"
----
-
-![](/images/logo.png){width="50%"}
-
-
-
-Gain experience in exploratory data analysis, predictive modeling, and statistical inference while working on problems and case studies inspired by and based on real-world questions. 
