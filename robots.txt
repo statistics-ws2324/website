@@ -1,1 +1,1 @@
-Sitemap: https://myplaceholder.github.io/website/sitemap.xml
+Sitemap: https://github.com/statistics-ws2324/website/sitemap.xml
