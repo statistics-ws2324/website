@@ -7,16 +7,20 @@ Welcome to Statistics (337094b)! 👋
 
 This page contains a weekly overview about the topics, slides and materials for the semester.
 
+- [Moodle-course](https://moodle.hdm-stuttgart.de/course/view.php?id=2464#section-0)
+- [Miro board 📝](https://miro.com/app/board/uXjVNZs0T2Q=/) (password is provided in Moodle)
+
+
 :::{.callout-note}
 This overview will be updated as the semester progresses.
 :::
 
 
 
-|	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Miro	|	Data	|
-|	---	|	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|	---	|
-|	1	|	1	|	10.10.	|	First Data Analysis	|	[📚](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes)	|		[📑](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb)	|		|	[📊](https://docs.google.com/spreadsheets/d/1QO0UfC43YwJ0YIg5LWaYkVUX-qGh93wZZ6JLyHa3_bg/edit?usp=sharing)	|
-|	2	|	2	|	17.10.	|	Data basics	|	[📚](https://openintro-ims.netlify.app/data-hello.html#data-basics)	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)	|		|	[📝](https://miro.com/app/board/uXjVNcvAY24=/?share_link_id=542822806505)	|	[💽 loans.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loans.csv)	|
-|	2	|	3	|	17.10.	|	Loans data	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#explore-categorical)	|	<!--	[📑](https://docs.google.com/presentation/d/1o0TVpTvndPA1J23CdTtEThYSekjudkGXuW9HiEA65yc/export/pdf)	-->	|		|		|		|		|
-|	2	|	4	|	17.10.	|	Contingency tables	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#contingency-tables-and-bar-plots)	|	<!--	[📑](https://docs.google.com/presentation/d/1xIfx5wWjSi2ciGDo3OcYmjOYWzQZ5jWC-UwqioKKO6k/export/pdf)	-->	|		|		|		|		|
-|	2	|	5	|	17.10.	|	Contingency tables with proportions	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#row-and-column-proportions)	|	<!--	[📑](https://docs.google.com/presentation/d/1fY1jRrnluZg9MDei9hcdtCRmRXlUqCg6lonQVzkItPQ/export/pdf)	-->	|		|		|		|		|
+|	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
+|	---	|	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
+|	1	|	1	|	10.10.	|	First Data Analysis	|	[📚](https://openintro-ims.netlify.app/data-hello.html#case-study-stents-strokes)	|		[📑](https://docs.google.com/presentation/d/1YXoCWZv37c3u_cMBc3o2_IG_atDlGdLhCwin_Rciwck/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ae/1_netflix.ipynb)	|	[📊](https://docs.google.com/spreadsheets/d/1QO0UfC43YwJ0YIg5LWaYkVUX-qGh93wZZ6JLyHa3_bg/edit?usp=sharing)	|
+|	2	|	2	|	17.10.	|	Data basics	|	[📚](https://openintro-ims.netlify.app/data-hello.html#data-basics)	|	<!--	[📑](https://docs.google.com/presentation/d/1IlR_HTTNE865xiT3GlXD5_RNZDMMtlbNKRftLXPPmsw/export/pdf)	-->	|	[☑️](https://forms.gle/EJT7mcYgPi8drKgR9)	|		|	[💽 loans.csv](https://raw.githubusercontent.com/kirenz/datasets/master/loans.csv)	|
+|	2	|	3	|	17.10.	|	Loans data	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#explore-categorical)	|	<!--	[📑](https://docs.google.com/presentation/d/1o0TVpTvndPA1J23CdTtEThYSekjudkGXuW9HiEA65yc/export/pdf)	-->	|		|		|		|
+|	2	|	4	|	17.10.	|	Contingency tables	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#contingency-tables-and-bar-plots)	|	<!--	[📑](https://docs.google.com/presentation/d/1xIfx5wWjSi2ciGDo3OcYmjOYWzQZ5jWC-UwqioKKO6k/export/pdf)	-->	|		|		|		|
+|	2	|	5	|	17.10.	|	Contingency tables with proportions	|	[📚](https://openintro-ims.netlify.app/explore-categorical.html#row-and-column-proportions)	|	<!--	[📑](https://docs.google.com/presentation/d/1fY1jRrnluZg9MDei9hcdtCRmRXlUqCg6lonQVzkItPQ/export/pdf)	-->	|		|		|		|
