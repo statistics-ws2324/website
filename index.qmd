@@ -15,6 +15,7 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
+
 |	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |		|		|		|	**Data basics**	|		|				|		|		|		|
