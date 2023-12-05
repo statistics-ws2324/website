@@ -15,6 +15,7 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
+
 |	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |		|		|		|	**Data basics**	|		|				|		|		|		|
@@ -44,8 +45,6 @@ This overview will be updated as the semester progresses.
 |	7	|	21	|	21.11.	|	Least squares regression	|	[📚](https://openintro-ims.netlify.app/model-slr.html#least-squares-regression)	|		[📑](https://docs.google.com/presentation/d/1jreIuC0fOiVPHt6CUNYb-Kb4uKogCeftBZP5Zum6jSQ/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-3-least-squares.ipynb)	|		|
 |	8	|	22	|	28.11.	|	R squared	|	[📚](https://openintro-ims.netlify.app/model-slr.html#r-squared)	|		[📑](https://docs.google.com/presentation/d/1ZIijR7F877M9peDH2rhb3IO7dP6JGDd1ypz_C2pAyGI/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-4-strength-fit.ipynb)	|		|
 |	8	|	23	|	28.11.	|	Categorical predictors with two levels	|	[📚](https://openintro-ims.netlify.app/model-slr.html#categorical-predictor-two-levels)	|		[📑](https://docs.google.com/presentation/d/1Ca1pslYtl_bsPgY00JMhseV4klnU81AWw6s5Y8a15PA/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/07-5-categorical.ipynb)	|		|
-|	9	|	24	|	05.12.	|	Outliers	|	[📚](https://openintro-ims.netlify.app/model-slr.html#outliers-in-regression)	|	<!--	[📑](https://docs.google.com/presentation/d/1UxbXpM0_BtZu9nAUczUopOOGT39hzn9Ucz0jOTYmM_Y/export/pdf)	-->	|		|		|		|
-|	9	|	25	|	05.12.	|	Multiple predictors regression	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#model-mlr)	|	<!--	[📑](https://docs.google.com/presentation/d/1ijhtWW58Kx1-ltulPSc1dKotJrXS7ZTGi6RFCKOGStA/export/pdf)	-->	|	[☑️](https://forms.gle/wHPHMvbTDczNaQD97)	|		|		|
+|	9	|	24	|	05.12.	|	Outliers	|	[📚](https://openintro-ims.netlify.app/model-slr.html#outliers-in-regression)	|		[📑](https://docs.google.com/presentation/d/1UxbXpM0_BtZu9nAUczUopOOGT39hzn9Ucz0jOTYmM_Y/export/pdf)		|		|		|		|
+|	9	|	25	|	05.12.	|	Multiple predictors regression	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#model-mlr)	|		[📑](https://docs.google.com/presentation/d/1ijhtWW58Kx1-ltulPSc1dKotJrXS7ZTGi6RFCKOGStA/export/pdf)		|	[☑️](https://forms.gle/wHPHMvbTDczNaQD97)	|		|		|
 |	9	|	26	|	05.12.	|	Jupyter Notebook 08a-1	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-1-multiple-c.ipynb)	|		|
-|	9	|	27	|	05.12.	|	Jupyter Notebook 08a-2	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-2-multiple-c.ipynb)	|		|
-|	9	|	28	|	05.12.	|	Jupyter Notebook 08a-3	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-3-multiple-c.ipynb)	|		|
