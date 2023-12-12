@@ -15,7 +15,6 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
-
 |	Week	|	Nr.	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |		|		|		|	**Data basics**	|		|				|		|		|		|
@@ -48,3 +47,5 @@ This overview will be updated as the semester progresses.
 |	9	|	24	|	05.12.	|	Outliers	|	[📚](https://openintro-ims.netlify.app/model-slr.html#outliers-in-regression)	|		[📑](https://docs.google.com/presentation/d/1UxbXpM0_BtZu9nAUczUopOOGT39hzn9Ucz0jOTYmM_Y/export/pdf)		|		|		|		|
 |	9	|	25	|	05.12.	|	Multiple predictors regression	|	[📚](https://openintro-ims.netlify.app/model-mlr.html#model-mlr)	|		[📑](https://docs.google.com/presentation/d/1ijhtWW58Kx1-ltulPSc1dKotJrXS7ZTGi6RFCKOGStA/export/pdf)		|	[☑️](https://forms.gle/wHPHMvbTDczNaQD97)	|		|		|
 |	9	|	26	|	05.12.	|	Jupyter Notebook 08a-1	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-1-multiple-c.ipynb)	|		|
+|	10	|	27	|	12.12.	|	Jupyter Notebook 08a-2	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-2-multiple-c.ipynb)	|		|
+|	10	|	28	|	12.12.	|	Jupyter Notebook 08a-3	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-3-multiple-c.ipynb)	|		|
