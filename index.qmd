@@ -17,6 +17,7 @@ This overview will be updated as the semester progresses.
 
 
 
+
 |	Nr	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |	1	|		|	**Data basics**	|		|				|		|		|		|
