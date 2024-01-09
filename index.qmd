@@ -15,6 +15,7 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
+
 |	Nr	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |	1	|		|	**Data basics**	|		|				|		|		|		|
@@ -50,8 +51,6 @@ This overview will be updated as the semester progresses.
 |	31	|	12.12.	|	Jupyter Notebook 08a-2	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-2-multiple-c.ipynb)	|		|
 |	32	|	12.12.	|	Jupyter Notebook 08a-3	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-3-multiple-c.ipynb)	|		|
 |	33	|		|	**Classification with Logistic Regression**	|		|				|		|		|		|
-|	34	|	09.01.	|	Classification	|		|	<!--	[📑](https://docs.google.com/presentation/d/1Uait12xIaTM9rdyxSEnzIbR8opENnoOOPefuPocze3s/export/pdf)	-->	|		|		|		|
-|	35	|	09.01.	|	Precision recall and F1 score	|	[📚](https://mlu-explain.github.io/precision-recall/)	|	<!--	[📑](https://docs.google.com/presentation/d/1X3_Ju8egEA8GwH_r76rxHHoC7tvHt8tMWXyT9WKfUko/export/pdf)	-->	|		|		|		|
-|	36	|	09.01.	|	ROC Curve and AUC	|	[📚](https://mlu-explain.github.io/roc-auc/)	|	<!--	[📑](https://docs.google.com/presentation/d/1wapuNTe4wVBUZVmH_X6-OxZlWkQL_YkhHsqZttQUWZk/export/pdf)	-->	|		|		|		|
-|	37	|	16.01.	|	Probability of an event	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#modelingTheProbabilityOfAnEvent)	|	<!--	[📑](https://docs.google.com/presentation/d/1VeNM1TK6XXquHEmVNNUmzXOvdgqDFGVilN310Z6JKeg/export/pdf)	-->	|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/09a-logistic-c.ipynb)	|		|
-|	38	|	16.01.	|	Multiple predictors classification	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#logistic-model-with-many-variables)	|	<!--	[📑](https://docs.google.com/presentation/d/1P7G8i3JOXj8t8MR8cCzY2PRAuLA7f1Q9KJcMgeZYi-U/export/pdf)	-->	|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/09b-logistic-c.ipynb)	|		|
+|	34	|	16.01.	|	Probability of an event	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#modelingTheProbabilityOfAnEvent)	|		[📑](https://docs.google.com/presentation/d/1VeNM1TK6XXquHEmVNNUmzXOvdgqDFGVilN310Z6JKeg/export/pdf)		|		|		|		|
+|	35	|	16.01.	|	Data splitting	|	[📚](NA)	|		[📑](https://docs.google.com/presentation/d/16DAGzUTUzI_prncqDeZx2HhpNnM_xTOL_Na0xTaDeVk/export/pdf)		|		|		|		|
+|	36	|	16.01.	|	Multiple predictors classification	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#logistic-model-with-many-variables)	|		[📑](https://docs.google.com/presentation/d/1P7G8i3JOXj8t8MR8cCzY2PRAuLA7f1Q9KJcMgeZYi-U/export/pdf)		|		|		|		|
