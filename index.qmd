@@ -15,7 +15,6 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
-
 |	Nr	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |	1	|		|	**Data basics**	|		|				|		|		|		|
@@ -51,6 +50,6 @@ This overview will be updated as the semester progresses.
 |	31	|	12.12.	|	Jupyter Notebook 08a-2	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-2-multiple-c.ipynb)	|		|
 |	32	|	12.12.	|	Jupyter Notebook 08a-3	|		|				|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/08a-3-multiple-c.ipynb)	|		|
 |	33	|		|	**Classification with Logistic Regression**	|		|				|		|		|		|
-|	34	|	16.01.	|	Probability of an event	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#modelingTheProbabilityOfAnEvent)	|	<!--	[📑](https://docs.google.com/presentation/d/1VeNM1TK6XXquHEmVNNUmzXOvdgqDFGVilN310Z6JKeg/export/pdf)	-->	|		|		|		|
+|	34	|	16.01.	|	Probability of an event	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#modelingTheProbabilityOfAnEvent)	|	<!--	[📑](https://docs.google.com/presentation/d/1VeNM1TK6XXquHEmVNNUmzXOvdgqDFGVilN310Z6JKeg/export/pdf)	-->	|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/09a-logistic-c.ipynb)	|		|
 |	35	|	16.01.	|	Data splitting	|	[📚](NA)	|	<!--	[📑](https://docs.google.com/presentation/d/16DAGzUTUzI_prncqDeZx2HhpNnM_xTOL_Na0xTaDeVk/export/pdf)	-->	|		|		|		|
-|	36	|	16.01.	|	Multiple predictors classification	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#logistic-model-with-many-variables)	|	<!--	[📑](https://docs.google.com/presentation/d/1P7G8i3JOXj8t8MR8cCzY2PRAuLA7f1Q9KJcMgeZYi-U/export/pdf)	-->	|		|		|		|
+|	36	|	16.01.	|	Multiple predictors classification	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#logistic-model-with-many-variables)	|	<!--	[📑](https://docs.google.com/presentation/d/1P7G8i3JOXj8t8MR8cCzY2PRAuLA7f1Q9KJcMgeZYi-U/export/pdf)	-->	|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/09b-logistic-c.ipynb)	|		|
