@@ -15,7 +15,6 @@ This page contains a weekly overview about the topics, slides and materials for 
 This overview will be updated as the semester progresses.
 :::
 
-
 |	Nr	|	Date	|	Topic	|	Literature	|		Slides		|	Links	|	Code	|	Data	|
 |	---	|	---	|	---	|	---	|		---		|	---	|	---	|	---	|
 |	1	|		|	**Data basics**	|		|				|		|		|		|
@@ -54,4 +53,10 @@ This overview will be updated as the semester progresses.
 |	34	|	09.01.	|	Probability of an event	|	[📚](https://openintro-ims.netlify.app/model-logistic.html#modelingTheProbabilityOfAnEvent)	|		[📑](https://docs.google.com/presentation/d/1VeNM1TK6XXquHEmVNNUmzXOvdgqDFGVilN310Z6JKeg/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/09a-logistic.ipynb)	|		|
 |	35	|		|	**Foundations of inference**	|		|				|		|		|		|
 |	36	|	16.01.	|	Introduction to mathematical models	|	[📚](https://openintro-ims.netlify.app/foundations-mathematical.html)	|		[📑](https://docs.google.com/presentation/d/16CnOWEpi1E7ThpWlEJ4CaSNFmqRfFM322lUXXwFmKeQ/export/pdf)		|		|	[💻](https://colab.research.google.com/github/kirenz/lab-ims/blob/main/ims/13a-mathematical-c.ipynb)	|		|
-|	37	|	23.01.	|	Mathematical cases and confidence	|	[📚](https://openintro-ims.netlify.app/foundations-mathematical.html#caseopp)	|		[📑](https://docs.google.com/presentation/d/1q-m2yp2zFZW3plabPVkDbUQxypoiUujbk4rmA4K_kHw/export/pdf)		|		|		|		|
+|	37	|	16.01.	|	Mathematical cases and confidence	|	[📚](https://openintro-ims.netlify.app/foundations-mathematical.html#caseopp)	|		[📑](https://docs.google.com/presentation/d/1q-m2yp2zFZW3plabPVkDbUQxypoiUujbk4rmA4K_kHw/export/pdf)		|		|		|		|
+|	38	|		|	**Statistical inference**	|		|				|		|		|		|
+|	39	|	23.01.	|	Single proportion mathematical	|	[📚](https://openintro-ims.netlify.app/inference-one-prop.html#one-prop-norm)	|	<!--	[📑](https://docs.google.com/presentation/d/120AeFtpSKdjaDM9JFoM4d0_hDvgtWrl5DQTncSHISIU/export/pdf)	-->	|		|		|		|
+|	40	|	23.01.	|	Single proportion hypothesis testing	|	[📚](https://openintro-ims.netlify.app/inference-one-prop.html#hypothesis-test-for-a-proportion)	|	<!--	[📑](https://docs.google.com/presentation/d/1703wnVRF9MEDzDuhIT6P94UJoPwvnXuoK6XLIkXz9mg/export/pdf)	-->	|		|		|		|
+|	41	|	23.01.	|	Two proportions mathematical	|	[📚](https://openintro-ims.netlify.app/inference-two-props.html#math-2prop)	|	<!--	[📑](https://docs.google.com/presentation/d/1wxIcHV_tEoXnKcQg21s1-Hte85VQ3VN-qGkwzmGdNWc/export/pdf)	-->	|		|		|		|
+|	42	|	23.01.	|	Two proportions hypothesis test	|	[📚](https://openintro-ims.netlify.app/inference-two-props.html#hypothesis-test-for-the-difference-between-two-proportions)	|	<!--	[📑](https://docs.google.com/presentation/d/1RAr_RnYry-a1FRsNIwVzB-vkycAsRD6etitSoV4N1a0/export/pdf)	-->	|		|		|		|
+|	43	|	23.01.	|	Two proportions mammogram	|	[📚](https://openintro-ims.netlify.app/inference-two-props.html#hypothesis-test-for-the-difference-between-two-proportions)	|	<!--	[📑](https://docs.google.com/presentation/d/1ER-IJvtNJPHOY4bQGurpqAl83rexJwQ0Db2ujo8eLAE/export/pdf)	-->	|		|		|		|
